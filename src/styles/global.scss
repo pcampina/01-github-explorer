@@ -8,12 +8,4 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background: #f4f4f4;
   color: #101010;
-
-  h1 {
-    transition: 0.3s;
-
-    &:hover {
-      padding-left: 1em;
-    }
-  }
 }
